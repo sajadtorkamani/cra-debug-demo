@@ -27,4 +27,5 @@ Take the actions on the page that should trigger your breakpoints (e.g., clickin
 ### Use the debugger
 
 Your breakpoints should be activated and the IDE should be brought into focus.
+
 ![](./src/assets/images/use-debugger.png)
