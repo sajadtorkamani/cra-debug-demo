@@ -9,6 +9,7 @@ npm i && npm run start
 ### Create a debug configuration
 
 ![](./src/assets/images/edit-config.png)
+
 ![](./src/assets/images/create-debug-config.png)
 
 ### Set breakpoints
@@ -18,3 +19,7 @@ npm i && npm run start
 ### Debug app
 
 ![](./src/assets/images/debug-app.png)
+
+### Use the debugger
+
+![](./src/assets/images/use-debugger.png)
